@@ -1,4 +1,4 @@
-Perch Checklist Field Type
+Perch Checklist Field Type.
 ===========================
 
 A Perch CMS field type for creating checklists.
